@@ -1,0 +1,16 @@
+# Ocultar credenciais e senhas
+.env
+
+# Ambiente Virtual
+.venv/
+venv/
+env/
+
+# Ignorar pastas de banco de dados pesados/gerados automaticamente
+Bases de Dados/
+Backup Arquivos Lojas/
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
